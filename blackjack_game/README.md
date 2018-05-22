@@ -1,4 +1,4 @@
-Black jack simulation /
+# Black Jack Game
 By Elisabetta Caldesi
 
 USAGE 
