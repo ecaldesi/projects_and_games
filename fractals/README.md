@@ -1,4 +1,5 @@
-Fractals by Elisabetta Caldesi.
+# Fractals 
+By Elisabetta Caldesi
 
 USAGE
 ------------
