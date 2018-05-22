@@ -1,4 +1,5 @@
-Sudoku Solver by Elisabetta Caldesi
+# Sudoku Solver 
+By Elisabetta Caldesi
 
 USAGE
 ---------
