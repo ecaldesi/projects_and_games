@@ -1,3 +1,6 @@
+# Search, the "find" implementation
+By Elisabetta Caldesi <br />
+
 Partial re-implementation of find called search, which recursively searches a directory and prints items it finds based on 
 the specified: <br />
 Options:
