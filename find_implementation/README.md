@@ -1,5 +1,5 @@
 Partial re-implementation of find called search, which recursively searches a directory and prints items it finds based on 
-the specified:
+the specified:__
 Options:
 
     -executable     File is executable or directory is searchable to user
